@@ -28,4 +28,4 @@ Because much of my recent work at **Criterion 360** and **Wolters-Kluwer** is pr
 *   **Enterprise Legacy:** Proven track record with AngularJS (Wolters-Kluwer), Java-based TEA (Disney), and D3.js data visualizations.
 
 ---
-📫 **Connect with me:** [campalot71@gmail.com](mailto:campalot71@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex-camp-3b789a5/)
+📫 **Connect with me:** [campalot71@gmail.com](mailto:campalot71@gmail.com) | [LinkedIn](https://www.linkedin.com/in/alex-camp-frontend/)
