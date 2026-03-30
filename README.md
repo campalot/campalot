@@ -8,7 +8,7 @@ I specialize in transforming complex, manual business logic into streamlined dig
 Because much of my recent work at **Criterion 360** and **Wolters-Kluwer** is proprietary, I am currently building **[Resolve](https://github.com/campalot/resolve-demo)**.
 
 **Resolve** is a deep-dive demo of how I architect enterprise-scale workspaces:
-*   **Complex State:** Sophisticated Apollo GraphQL orchestration & normalized caching.
+*   **Complex State:** A flexible data layer that can switch between REST (React Query) and GraphQL (Apollo) without changing the UI.
 *   **URL-as-Source:** Decoupled, predictable UI filtering and pagination logic.
 *   **Architectural Choice:** Utilizing **CSS Modules** over utility frameworks to ensure highly customizable, scoped styling without the overhead of framework overrides.
 *   **View the Demo:** [resolve-demo.vercel.app](https://resolve-demo.vercel.app)
